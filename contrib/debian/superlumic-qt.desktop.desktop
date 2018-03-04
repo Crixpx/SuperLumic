@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SuperLumic
+Comment=SuperLumic P2P Cryptocurrency
+Exec=superlumic-qt %u
+Terminal=false
+Type=Application
+Icon=superlumic128
+MimeType=x-scheme-handler/superlumic;
+Categories=Office;Finance;
+Name[en_US]=superlumic-qt.desktop

@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/superlumic_bg.qm</file>
+        <file alias="de">locale/superlumic_de.qm</file>
+        <file alias="en">locale/superlumic_en.qm</file>
+        <file alias="es">locale/superlumic_es.qm</file>
+        <file alias="fi">locale/superlumic_fi.qm</file>
+        <file alias="fr">locale/superlumic_fr.qm</file>
+        <file alias="it">locale/superlumic_it.qm</file>
+        <file alias="ja">locale/superlumic_ja.qm</file>
+        <file alias="pl">locale/superlumic_pl.qm</file>
+        <file alias="pt">locale/superlumic_pt.qm</file>
+        <file alias="ru">locale/superlumic_ru.qm</file>
+        <file alias="sk">locale/superlumic_sk.qm</file>
+        <file alias="sv">locale/superlumic_sv.qm</file>
+        <file alias="vi">locale/superlumic_vi.qm</file>
+        <file alias="zh_CN">locale/superlumic_zh_CN.qm</file>
+        <file alias="zh_TW">locale/superlumic_zh_TW.qm</file>
+    </qresource>
+</RCC>

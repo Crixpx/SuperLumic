@@ -1,0 +1,6 @@
+usr/local/bin/superlumic-qt usr/bin
+share/pixmaps/superlumic32.xpm usr/share/pixmaps
+share/pixmaps/superlumic16.xpm usr/share/pixmaps
+share/pixmaps/superlumic128.png usr/share/pixmaps
+debian/superlumic-qt.desktop usr/share/applications
+debian/superlumic-qt.protocol usr/share/kde4/services/

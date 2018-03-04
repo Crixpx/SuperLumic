@@ -6,8 +6,8 @@ https://www.superlumic.co
 
 What is SuperLumic?
 ----------------
+SuperLumic Coin (SLC) is a new cryptocurrency available to the community. Our coin will take community opinions into consideration with governance deployment to MN holders. SuperLumic Coin has a very unique game changing implementation planned for Q4 of 2018. Our team is in the process of preparing to file a patent application with the US Patent and Trademark office (USPTO) in Q2 of 2018. Further details will be announced to the community once the patent has been filed with USPTO. Based on the leader of masternode cryptocurrency - Dash. SuperLumic has been enhanced and further developed. SLC features the masternode technology with 80% block reward, near-instant and secure payments as well as anonymous transactions. 
 
-SuperLumic (SLC) is an innovative cryptocurrency. A form of digital currency secured by cryptography and issued through a decentralized and advanced mining market. Based on Dash, it's an enhanced and further developed version, featuring the masternode technology with 50% Reward, near-instant and secure payments as well as anonymous transactions. SuperLumic has great potential for rapid growth and expansion. Based on a total Proof of Work and Masternode system, it is accesible to everyone, it ensures a fair and stable return of investment for the Graphics Processing Units (GPUs) miners and the Masternode holders.
 
 Additional information, wallets, specifications & roadmap: https://www.superlumic.co
 
